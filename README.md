@@ -13,7 +13,7 @@ Here's a basic structure for a README file for your DevSecOps End-to-End CI/CD p
 - **OWASP Dependency-Check**: A tool to identify vulnerable dependencies within a project.
 - **Trivy**: A comprehensive security scanner for vulnerabilities, misconfigurations, and other security issues within containers.
 - **Git**: Version control system to manage code versions and collaborate with team members.
-- **GitHub/GitLab/Bitbucket**: Repository hosting service to store code and manage repositories.
+- **GitHub**: Repository hosting service to store code and manage repositories.
 
 ## Pipeline Overview
 
